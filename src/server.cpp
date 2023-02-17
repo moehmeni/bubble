@@ -1,5 +1,5 @@
 /*
- * Copyright 2023 <Mohammad Momeni>
+ * Copyright 2023 Momo
  */
 
 #include <arpa/inet.h>

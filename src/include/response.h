@@ -1,3 +1,4 @@
+// TODO: Replace C structs to C++ classes
 /** HTTP Response representor */
 struct Response
 {
